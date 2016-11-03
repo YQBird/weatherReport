@@ -1,0 +1,21 @@
+.tableHeader{
+  width: 250px;
+}
+
+.tableHeader:nth-of-type(1) {
+	width: 150px !important;
+}
+
+.input-group {
+	margin: 20px 0px;
+}
+
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+td:nth-of-type(1) {
+	height: 150px;
+	width: 200px;
+}
